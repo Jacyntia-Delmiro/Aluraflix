@@ -1,0 +1,56 @@
+header {
+    background: #000000;
+    padding: 15px;
+    font-size: 27px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 4px solid #ff007f;
+ 
+}
+
+.bt-cabeca{
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    gap: 15px;
+    margin: 10px;
+    
+}
+
+button{  
+    border-radius: 5px;
+    border: 2px solid rgb(230, 227, 228);
+    width: 130px;
+    height: 35px;
+    cursor: pointer;
+    background: #000000;
+    color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+img{
+    width: 100%;
+}
+
+
+footer{
+    background: #000000;
+    padding: 15px;
+    font-size: 27px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    color: white;
+    border-top: 4px solid #ff007f;
+    box-shadow: 0 10px 29px #cf4389;
+    align-items: center;
+    padding: 20px;
+   
+}
